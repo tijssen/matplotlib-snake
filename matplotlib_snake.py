@@ -10,7 +10,7 @@ import matplotlib.pyplot as plt
 from matplotlib.animation import FuncAnimation
 
 SIZE = 20 # customize game size
-LAST_KEY = KEY = None
+LAST_KEY = KEY = "up"
 
 GAME = np.zeros(2*(SIZE,)).astype(int) # square with side SIZE
 POS = [2*(SIZE//2,),] # center
