@@ -90,3 +90,4 @@ def animate(i):
 
 anim = FuncAnimation(fig, animate, init_func=init, frames=1000000, blit=True,
     interval=50) # customize animation speed (lower = faster)
+plt.show()

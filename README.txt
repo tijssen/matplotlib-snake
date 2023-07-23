@@ -1,8 +1,8 @@
-matplotlib-snake
+Matplotlib Snake
 ===
 An implementation of
 [Snake](https://en.wikipedia.org/wiki/Snake_(video_game_genre))
-using only Matplotlib and Numpy in 100 lines of code.
+using only Matplotlib and Numpy, in just 100 lines of code.
 
 Usage:
 
