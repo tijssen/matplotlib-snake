@@ -77,8 +77,8 @@ def animate(i):
         game[POS[-1]] = 1
         
     if EAT in POS: # snake is on food
-        ax.set_title(len(POS)) # update score
-        fig.canvas.draw()
+        #ax.set_title(len(POS)) # update score
+        #fig.canvas.draw()
         while EAT in POS: # new food not under snake
             EAT = tuple(np.random.randint(0, SIZE, 2))
         game[EAT] = 2
