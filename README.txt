@@ -18,3 +18,5 @@ This game is public domain software.
 Copyright (C) 2023 Luuk Tijssen <info@luuktijssen.com>
 
 License: CC0
+
+Test
